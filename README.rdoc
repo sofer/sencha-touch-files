@@ -1,0 +1,5 @@
+Just enough files from the Sencha Touch distribution to get going with.
+
+See http://www.sencha.com/.
+
+
